@@ -71,4 +71,18 @@ qiskit.__version__
 ```
 Pressione novamente SHIFT + ENTER para exibir a versão instalada. Esses passos concluem a instalação do Qiskit.
 
+## Passo 8: Utilizar o Qiskit depois da primeira vez
+Abra o Anaconda Prompt (Miniconda3). Um terminal será aberto mostrando:
+```
+(base) C:\User\Nome>
+```
+Ative novamente o ambiente criado com o comando:
+```
+conda activate qiskit
+```
+Inicie o Jupyter Lab:
+```
+jupyter-lab
+```
+
 Obs.: Créditos ao professor Felipe Fernandes Fanchini pelo tutorial e ao canal Qiskit no YouTube.
