@@ -85,4 +85,4 @@ Inicie o Jupyter Lab:
 jupyter-lab
 ```
 
-Obs.: Créditos ao professor Felipe Fernandes Fanchini pelo tutorial e ao canal Qiskit no YouTube.
+Obs.: Créditos ao professor Felipe Fernandes Fanchini pelo tutorial descrito acima e ao canal Qiskit no YouTube.
