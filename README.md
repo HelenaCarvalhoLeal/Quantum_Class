@@ -1,5 +1,5 @@
 # Introdução
-### Aqui constam as atividades referentes ao curso "Computação Quântica para Leigos" oferecida pela Extecamp.
+### Aqui constam as atividades referentes ao curso "Computação Quântica para Leigos" oferecido pela Extecamp.
 
 # Instalando o Qiskit
 
