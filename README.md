@@ -1,3 +1,6 @@
+# Introdução
+### Aqui constam as atividades referentes ao curso "Computação Quântica para Leigos" oferecido pela Extecamp.
+
 # Instalando o Qiskit
 
 ## Passo 1: Instalação do Miniconda
