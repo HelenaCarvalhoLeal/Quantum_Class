@@ -1,8 +1,8 @@
 # Introdução
 ### Aqui constam as atividades referentes ao curso "Computação Quântica para Leigos" oferecido pela Extecamp, além de algumas questões do livro de Mecânica Quântica do Griffiths. Dividido nas pastas:
-- Griffith
-- Intro_Unicamp
-- Quantum Machine Learning
+- Griffith;
+- Intro_Unicamp;
+- Quantum Machine Learning.
 
 # Instalando o Qiskit
 
