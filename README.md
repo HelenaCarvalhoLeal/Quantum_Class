@@ -3,6 +3,7 @@
 - Griffith;
 - Intro_Unicamp (Quantum Basics);
 - Quantum_ML (Machine Learning).
+- Hackaton
 
 # Instalando o Qiskit
 
